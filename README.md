@@ -1,3 +1,3 @@
-# Threat-Modelling
+# University Assignments
 
-This assignment required me to preform a threat model on a vending machine
+Here I have uploaded a collection of my most relevant university assignments to showcase my core technical skills.
