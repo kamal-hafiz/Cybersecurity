@@ -8,7 +8,7 @@ Here I have uploaded a collection of my most relevant university assignments to 
 This assignment required me to create a bash shell script designed to automate the creation of a secure directory structure for an academic course. This project implements strict access control policies utilizing Linux file permissions, Access Control Lists (ACLs), and user/group management commands to ensure data integrity and confidentiality.
 
 # CYBR373 - Governance, Risk and Compliance
-## GRC - Risk_Assessment_Assignment - Grade B 
+## Risk_Assessment_Assignment - Grade B 
 This assignment required me to perform a comprehensive risk assessment on a data center company to determine potential risks, their likelyhood, consequences and determined control strategies for these risks. 
 
 # CYBR271 - Code Security 
