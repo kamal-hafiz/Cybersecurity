@@ -1,6 +1,5 @@
 # Cybersecurity
-
-Here I have uploaded a collection of my most relevant university assignments to showcase my cybersecurity skills 
+This repository contains assignments and projects I have completed throughout University to showcase my relevant Cybersecurity skills.
 
 
 # CYBR371 - System and Network Security 
