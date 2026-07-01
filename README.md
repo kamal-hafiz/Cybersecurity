@@ -2,8 +2,12 @@
 
 Here I have uploaded a collection of my most relevant university assignments to showcase my cybersecurity skills 
 
-## Access_Control_Assignment (CYBR371)
-For this assignment, I had to implement access control on linux for users, groups and directories in a simulated university environment. 
 
-## Threat_Modelling_Assigment (CYBR271)
-This assignment required me to threat model a vending machine to identify vulnerabilities using methods like STRIDE and DREAD analysis.
+#CYBR371
+## Access_Control_Assignment - Grade A+
+This assignment required me to create a bash shell script designed to automate the creation of a secure directory structure for an academic course. This project implements strict access control policies utilizing Linux file permissions, Access Control Lists (ACLs), and user/group management commands to ensure data integrity and confidentiality.
+
+
+#CYBR271
+## Threat_Modelling_Assigment - Grade A- 
+This assignment required me to threat model a vending machine to identify realistic threats and mitigations using STRIDE and DREAD frameworks. 
